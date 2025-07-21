@@ -1,4 +1,4 @@
-👋 Hello! I'm Praveen Kumar Meda
+<h1>👋 Hello! I'm Praveen Kumar Meda</h1>
 
 B.Tech in Artificial Intelligence & Machine Learning (2022–2026)  
 Annamacharya Institute of Technology and Sciences, Rajampet  
